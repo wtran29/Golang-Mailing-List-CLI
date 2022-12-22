@@ -1,4 +1,4 @@
-package maildb
+package mdb
 
 import (
 	"database/sql"
