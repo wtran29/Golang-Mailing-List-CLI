@@ -23,7 +23,7 @@ func main() {
 	}
 
 	if args.BindJson == "" {
-		args.BindJson = ":8000"
+		args.BindJson = ":8080"
 	}
 
 	log.Printf("using database '%v'\n", args.Dbpath)
