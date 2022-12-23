@@ -1,3 +1,8 @@
+# Mailing List Microservice
+ - Microservice that hosts JSON APIs and gRPC APIs by utilizing protocol buffers as a communication format and SQLite as a data store. 
+ - Created gRPC client used to communicate with the gRPC APIs.
+ - Used Thunder Client extension to make JSON API calls.
+
 # Setup
 
 Project requires a `gcc` compiler installed and `protobuf` code generation tools.
